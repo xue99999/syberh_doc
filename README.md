@@ -16,3 +16,6 @@ syberh实现时的一些文档
 
 ## 如何修改一个App改成可以被唤起的APP
 `sopconfig.xml`文件中配置
+
+## 配置文件如何读取
+`project.config.js`读取配置
